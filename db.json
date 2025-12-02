@@ -1,0 +1,108 @@
+{
+  "posts": [
+    {
+      "vending_machines": [
+        {
+          "id": "SW03-V01",
+          "location": "SW03",
+          "floor": "G/F (1/F)",
+          "closest_room": "1710",
+          "type_of_goods_sold": "Bottled Water",
+          "major_brand_sold": "Dasani",
+          "pricey_rating": "3",
+          "opening_time": "24 hours",
+          "opening_days": "All week",
+          "description": "This is a vending machine located on the 1/F selling Dasani bottled water with blue color as exterior",
+          "image_url": "https://i.imgur.com/z38cFfg.png"
+        },
+        {
+          "id": "SW03-V02",
+          "location": "SW03",
+          "floor": "G/F (1/F)",
+          "closest_room": "1710",
+          "type_of_goods_sold": "Energy & Pop Drink - Bottled & Canned",
+          "major_brand_sold": "Coca-Cola & Monster",
+          "pricey_rating": "2",
+          "opening_time": "24 hours",
+          "opening_days": "All week",
+          "description": "This is a vending machine located on the 1/F selling various energy and pop drink made by The Coca-Cola Company, such as Monster energy drink",
+          "image_url": "https://i.imgur.com/DSQ5wtk.png"
+        },
+        {
+          "id": "SW03-V03",
+          "location": "SW03",
+          "floor": "G/F (1/F)",
+          "closest_room": "1710",
+          "type_of_goods_sold": "Snacks & Protein Bar",
+          "major_brand_sold": "Various (Merchandised by Canteen)",
+          "pricey_rating": "3",
+          "opening_time": "24 hours",
+          "opening_days": "All week",
+          "description": "This is a vending machine located on the 1/F selling various snacks such as popcorn and protein bar",
+          "image_url": "https://i.imgur.com/fivHr2d.png"
+        }
+      ],
+      "shops": [
+        {
+          "id": "NE01-S01",
+          "location": "NE01",
+          "floor": "G/F (1/F)",
+          "name": "Pavilion",
+          "closest_room": "Unknown",
+          "shop_type": "Full Service Restaurant",
+          "type_of_goods_sold": "Pizza and Western Food",
+          "pricey_rating": "3",
+          "opening_time": "06:30- 14:00",
+          "opening_days": "Monday - Friday",
+          "description": "This is a full service restaurant providing foods operated by Canteen to provide western cuisine such as pizza and various foods",
+          "image_url": "https://i.imgur.com/RCfWOfz.png"
+        },
+        {
+          "id": "SE02-S01",
+          "location": "SE02",
+          "floor": "G/F (1/F)",
+          "name": "Habitat Pub",
+          "closest_room": "BCIT Bookstore",
+          "shop_type": "Full Service Pub",
+          "type_of_goods_sold": "Fries, Alcohol and Western Food",
+          "pricey_rating": "4",
+          "opening_time": "11:00 - 19:00 (20:00 on Thursday and Friday)",
+          "opening_days": "Monday - Friday",
+          "description": "This is a full service restaurant providing foods operated by Canteen to provide western cuisine such as pizza and various foods",
+          "base_64_encoded_image": "https://i.imgur.com/JFcjm0w.jpeg"
+        },
+        {
+          "id": "SE02-S02",
+          "location": "SE02",
+          "floor": "2/F",
+          "name": "Triple O's",
+          "closest_room": "N/A",
+          "shop_type": "Self-Served Fast Food Shop",
+          "type_of_goods_sold": "Fries and Burgers",
+          "pricey_rating": "3",
+          "opening_time": "09:00 - 17:00 (18:00 on Tuesday and 14:00 on Friday",
+          "opening_days": "Monday - Friday",
+          "description": "A self-service fast food franchise operated by Canteen, with a fountain pop machine that can fill up all the thirsty in the summer.",
+          "image_url": "https://i.imgur.com/O9uuC6L.png"
+        },
+        {
+          "id": "SE02-S03",
+          "location": "SE02",
+          "floor": "2/F",
+          "name": "The Rix Club (Starbucks)",
+          "closest_room": "N/A",
+          "shop_type": "Self-Served Cafe",
+          "type_of_goods_sold": "Coffee and Sandwich",
+          "pricey_rating": "3",
+          "opening_time": "09:00 - 17:00 (18:00 on Tuesday and 14:00 on Friday",
+          "opening_days": "Monday - Friday",
+          "description": "A self-service fast food franchise operated by Canteen, with a fountain pop machine that can fill up all the thirsty in the summer.",
+          "image_url": "https://i.imgur.com/7YIDqS2.jpeg"
+        }
+      ]
+    }
+  ],
+  "profile": {
+    "name": "cw-bcit"
+  }
+}
