@@ -50,7 +50,8 @@
       "shop_type": "Full Service Restaurant",
       "type_of_goods_sold": "Pizza and Western Food",
       "pricey_rating": "3",
-      "opening_time": "06:30- 14:00",
+      "opening_time": "06:30",
+      "closing_time": "14:00",
       "opening_days": "Monday - Friday",
       "description": "This is a full service restaurant providing foods operated by Canteen to provide western cuisine such as pizza and various foods",
       "image_url": "https://i.imgur.com/RCfWOfz.png"
@@ -64,10 +65,11 @@
       "shop_type": "Full Service Pub",
       "type_of_goods_sold": "Fries, Alcohol and Western Food",
       "pricey_rating": "4",
-      "opening_time": "11:00 - 19:00 (20:00 on Thursday and Friday)",
+      "opening_time": "11:00",
+      "closing_time": "19:00 (20:00 on Thursday and Friday)",
       "opening_days": "Monday - Friday",
       "description": "This is a full service restaurant providing foods operated by Canteen to provide western cuisine such as pizza and various foods",
-      "base_64_encoded_image": "https://i.imgur.com/JFcjm0w.jpeg"
+      "image_url": "https://i.imgur.com/JFcjm0w.jpeg"
     },
     {
       "id": "SE02-S02",
@@ -78,7 +80,8 @@
       "shop_type": "Self-Served Fast Food Shop",
       "type_of_goods_sold": "Fries and Burgers",
       "pricey_rating": "3",
-      "opening_time": "09:00 - 17:00 (18:00 on Tuesday and 14:00 on Friday",
+      "opening_time": "09:00",
+      "closing_time": "17:00 (18:00 on Tuesday and 14:00 on Friday)",
       "opening_days": "Monday - Friday",
       "description": "A self-service fast food franchise operated by Canteen, with a fountain pop machine that can fill up all the thirsty in the summer.",
       "image_url": "https://i.imgur.com/O9uuC6L.png"
@@ -92,7 +95,8 @@
       "shop_type": "Self-Served Cafe",
       "type_of_goods_sold": "Coffee and Sandwich",
       "pricey_rating": "3",
-      "opening_time": "09:00 - 17:00 (18:00 on Tuesday and 14:00 on Friday",
+      "opening_time": "09:00",
+      "closing_time": "17:00 (18:00 on Tuesday and 14:00 on Friday)",
       "opening_days": "Monday - Friday",
       "description": "A self-service fast food franchise operated by Canteen, with a fountain pop machine that can fill up all the thirsty in the summer.",
       "image_url": "https://i.imgur.com/7YIDqS2.jpeg"
